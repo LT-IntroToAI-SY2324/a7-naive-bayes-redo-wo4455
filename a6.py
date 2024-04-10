@@ -318,7 +318,7 @@ if __name__ == "__main__":
 
     print("Testing Below:")
 
-    print(b.classify("I'm so excited for the solar eclipse! It's going to be so cool!"))
+    print(b.classify("The hotel room was dirty and noisy, definitely not worth the price I paid."))
 
-    print(b.classify("The solar eclipse is going to be boring, why should we waste our time?"))
+    
     pass
